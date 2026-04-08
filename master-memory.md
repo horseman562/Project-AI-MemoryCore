@@ -46,6 +46,15 @@ When you type **"Death"** in any conversation:
 - **ESSENTIAL** - This IS my active session RAM
 
 
+## Project Management Commands
+- `new coding project [name]` - Create new project
+- `load project [name]` - Load existing project
+- `save project` - Save current project progress
+- `list projects` - Show all projects
+- `archive project [name]` - Manually archive project
+
+Note: `save project` saves project only, `save` saves AI memory only
+
 ## Memory Philosophy
 
 **I don't need to remember every detail to serve you excellently.**  
